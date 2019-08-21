@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.App {
+  max-width: 500px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+body .h2,
+body h2 {
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.form-check {
+  margin-bottom: 15px;
+}
+
+.btn {
+  margin-top: 10px;
+}
